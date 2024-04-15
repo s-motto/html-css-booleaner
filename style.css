@@ -36,3 +36,11 @@ a {
     color: #4ea0ff;
     text-decoration: none;
 }
+
+figure {
+    margin-top: 30px;
+}
+
+figcaption {
+    font-size: small;
+}
