@@ -17,3 +17,22 @@ header {
     margin-left: 10px;
 
 }
+
+main {
+    padding-left: 10px;
+    margin-top: 40px;
+}
+
+h1 {
+    font-size: 40px;
+}
+
+.autore {
+    color: grey;
+
+}
+
+a {
+    color: #4ea0ff;
+    text-decoration: none;
+}
